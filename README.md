@@ -1,4 +1,4 @@
-# Competible with dremio 17 Vertica ARP Connector 
+# Dremio 17 Vertica ARP Connector 
 
 
 The Vertica connector allows Dremio to connect to and query data in a Vertica database. This can then allow you to build custom reports, dashboards, or even just ad-hoc SQL via your client tool of choice. Note that it does require a third-party JDBC driver that is not free, but does allow a free trial.
