@@ -1,0 +1,25 @@
+{
+  "sourceType": "VERTICA",
+  "metadataRefresh": {
+    "datasetDiscovery": true
+  },
+  "form": {
+    "tabs": [
+      {
+        "name": "General",
+        "isGeneral": true,
+        "sections": [
+          {
+            "name": "Vertica Source",
+            "layout": "row",
+            "elements": [
+                {
+                    "propName": "config.enableExternalQuery"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
